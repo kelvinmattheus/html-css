@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+:root {
+    --cor0: #D0CFED;
+    --cor1: #B2B5F0;
+    --cor2: #686FED;
+    --cor3: #5257BA;
+    --cor4: #30336E;
+    --cor5: #151970;
+
+    --fonte-padrao: arial, helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', cursive;
+}
